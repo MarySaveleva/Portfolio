@@ -34,7 +34,7 @@
 
 # Техники тестирования, основанные на опыте; 
 Отчет по сессии тестирования для функциональности:  Авторизация.
-→ Сессеонное тестирование https://docs.google.com/spreadsheets/d/19IkWBAqtBEXZyfwKkiZR8flF9wAhNNdVu6lrwYDflLE/edit?usp=sharing 
+→ Сессионное тестирование https://docs.google.com/spreadsheets/d/19IkWBAqtBEXZyfwKkiZR8flF9wAhNNdVu6lrwYDflLE/edit?usp=sharing 
 
 # Техники тестирования, основанные на опыте;
 Составление сценариев и чек-листов на основе техники предугадывания ошибок для: оформление заказа, поле поиска и восстановление пароля пользователя.                 
@@ -42,11 +42,11 @@
  
 # Техники тестирования, связанной с изменениями; 
 Составления плана регрессионного тестирования для найденных багов:         
-→ Тест-план https://docs.google.com/spreadsheets/d/1u_3uJOJE-ZRuEILTaOtrdY02wP03RxrFXwLCXAxLREs/edit?usp=sharing 
+→ Регрессионное тестирование https://docs.google.com/spreadsheets/d/1u_3uJOJE-ZRuEILTaOtrdY02wP03RxrFXwLCXAxLREs/edit?usp=sharing 
 
 # Управления тестированием; Планированием; 
 Составления тест-плана для фичи: Профиль залогиненого пользователя.         
-→ https://docs.google.com/spreadsheets/d/1SxCsJ018DQThs1tqXRJ0si1bimuFhXI0fl2cJNLa8eo/edit?usp=sharing 
+→ Тест-план https://docs.google.com/spreadsheets/d/1SxCsJ018DQThs1tqXRJ0si1bimuFhXI0fl2cJNLa8eo/edit?usp=sharing 
 
 # Основы баз данных;  Основные команды SQL;
 Таблица БД товара для интернет-магазина https://www.mvideo.ru/ 
