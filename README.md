@@ -65,3 +65,18 @@
 # скрин баг-репорта в Redmine: 
 → [скрин 1](https://drive.google.com/file/d/1BntfuoxfEry1BI8rdWOkbWHTkHehfv8G/view?usp=sharing) 
 [скрин2](https://drive.google.com/file/d/1Fy6aCAR3R1nyJqVGc9WHjGIjWuoX2R2d/view?usp=sharing)
+
+# Mind map 
+[МВидео](https://www.mvideo.ru/)
+![2022-07-07_15-58-09](https://user-images.githubusercontent.com/108699736/177780901-fefb9930-b240-469f-90ec-963480ff5bc5.png)
+
+# Mind map профиль залогиненного пользователя
+![2022-07-07_16-12-37](https://user-images.githubusercontent.com/108699736/177782175-e07a71d7-bcb6-4597-b181-ad4ebff1a3cf.png)
+
+# Mind map состояний и переходов фичи отзыв
+![2022-05-25_11-46-03](https://user-images.githubusercontent.com/108699736/177784101-66e0fd36-5086-4601-a318-df779c4135eb.png)
+
+
+
+
+
